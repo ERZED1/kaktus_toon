@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068668609117",
+    "project_id": "auth-login-722d9",
+    "storage_bucket": "auth-login-722d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068668609117:android:66d6f72a2be4e53fc5e3b4",
+        "android_client_info": {
+          "package_name": "com.example.kaktus_toon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068668609117-ptkibosctu4e3s6lmdailcolh5kcg17k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkmC7UXYDW3KivrQ0YXDJxEOyIqB-5hKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068668609117-ptkibosctu4e3s6lmdailcolh5kcg17k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
